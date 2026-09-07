@@ -1,0 +1,1 @@
+worker: python thancred_bot.py
